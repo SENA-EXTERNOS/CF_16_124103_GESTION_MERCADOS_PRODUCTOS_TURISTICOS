@@ -2,14 +2,347 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 45%
+    right: 65%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 17%
+    right: 20%
 
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+  bottom: -130px     
+
+
+//custom para cajones de colores------------------------- 
+.cajon.color1
+  background-color: #e9f8d0
+.cajon.color1:before
+  background-color: #a7e446
+.cajon.color2
+  background-color: #e1d7f2
+.cajon.color2:before
+  background-color: #6836bf      
+//---------------------------------------------------------   
+
+//custo para linea hr-----------------  
+.linea
+  background-color: #a7e446
+  height: 3px !important
+//-------------------------------------   
+
+//custom bloque-text-b: i--------------
+.bloque-texto-b i:first-of-type
+    margin-right: 15px;
+    color: #fc4b52;
+.bloque-texto-b i:last-of-type
+    margin-left: 15px;
+    vertical-align: text-top;
+    color: #fc4b52;   
+//-------------------------------------
+
+//custom para cajon punto caliente------------
+.tamano1
+  width: 230%;  
+  position: relative
+  top: 10px
+  height: 210px
+  p
+    margin-top: 30px
+  @media ( max-width: 500px )
+    width: 110%;
+    position: relative;
+    top: -80px;
+    height: 400px;
+    right: 60px
+        
+.tamano2
+  width: 200%; 
+  @media  ( max-width: 500px )
+    position: relative;
+    width: 115%;
+    top: -80px;
+    right: 60px;      
+.tamano3
+  width: 130%;  
+  @media ( max-width: 500px )
+    position: relative;
+    width: 110%;
+    right: 60px;
+    top: -80px;
+    
+.tamano4   
+  width: 700px
+  right: 570px
+  top: 30px
+  position: relative
+  @media ( max-width: 500px )
+    position: relative
+    width: 120%;
+    right: 50px;
+    top: -80px;
+.tamano5  
+  width: 600px
+  right: 500px
+  top: 0px
+  height: 210px  
+  p
+    margin-top: 30px  
+  position: relative 
+  @media ( max-width: 500px )
+    position: relative
+    width: 120%;
+    right: 50px;
+    top: -80px;
+    height: 300px   
+.estilo-left
+  background-color: #feca2e
+  border-left: 30px solid #feca2e !important
+  border-top-right-radius: 70px;
+  border-bottom-right-radius: 70px
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+
+.estilo-right
+  background-color: #feca2e
+  border-left: 30px solid #feca2e !important
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px
+  border-top-left-radius: 70px;
+  border-bottom-left-radius: 70px;  
+//--------------------------------------------------- 
+
+//colores para viñetas------------------------------------------------
+.vineta-fuscia
+  color: #FC4B52 !important
+.vineta-morada
+  color: #6836BF  
+//--------------------------------------------------------------------   
+
+//animacion flotante------------------------------------  
+.animacion-flotante
+  animation: float1 3s ease-in-out infinite alternate
+  position: relative
+  top: 0rem
+  right: 0%
+  width: 100%
+//--------------------------------------------------  
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #F6F6F6 
+
+.acordion__accion__btn--a
+  background-color: #A7E446 !important
+
+.acordion__activo
+  background-color: #FFF7E0  !important
+//--------------------------------------------------------------------    
+
+.tarjeta.acordeonB
+  background-color: #F2FBE3 !important
+
+//background para SlyderB  
+.bkg-slyder
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/temas/fondo-tarjeta.png")
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px  
+
+.slyder-a__tipo-b .slyder-a__btn--atrs, .slyder-a__tipo-b .slyder-a__btn--sigt 
+    background-color: #FECA2E
+//---------------------------------------------- 
+
+//custom infografica modal
+
+.img-infografica-b__modal__contenido div > *
+    color: #000 !important
+.img-infografica-b__modal
+  background-color: #feca2e !important
+  border-radius: 20px;
+.img-infografica-b__item__tooltip
+    background-color: #cccccc00
+//-----------------------------------------
+
+//tamaño imagenes movil-------
+@media ( max-width: 500px )
+  .img-movil
+    margin-left: 70px; 
+    width: 50% !important
+    margin-bottom: 10px; 
+.img
+  width: 70%;
+  margin-bottom: 30px;
+//-----------------------------  
+
+//custom tarjeta descarga
+.color-descarga
+  background: #64892A
+.icono
+  width: 50px
+  @media ( max-width: 500px )
+    width: 100px
+//----------------------------
+
+
+//custom tema 4 avatar-------------------
+.avatar
+  position: absolute
+  bottom: 0
+  right: -5rem
+  z-index: 1
+  @media (max-width: 500px)
+    display: flex
+    position: absolute
+    bottom: 0
+    right: -5rem
+    z-index: 1    
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h3
+    margin: 0;
+    margin-left: -20px
+  p 
+    margin-left: -70px;
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 3px
+    width: calc( 130% - 100px)
+    height: 100%
+  @media (max-width: 500px)
+    padding-right: 2rem
+    h3
+      margin: 0;
+      margin-left: -20px
+    p 
+      margin-right: 10px;
+      margin-left: -20px;    
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 24px
+      width: calc( 60% - -100px)
+      height: 100%
+
+.crd-color1
+  &::before
+    background-color: #fec8ca !important
+.crd-color2
+  &::before
+    background-color: #ffe3e4 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+///ubicación iconos avatar
+.numero
+  right: 70px;
+  position: relative
+
+@media( max-width: 500px  )
+  .numero
+    left: -20px
+    position: relative 
+
+.img250
+  position: relative;
+  width: 330px;
+  top: 0px;
+  left: 23px;
+  @media ( max-width: 500px )
+    position: relative;
+    width: 84px;
+    left: -68px;
+    top: -1192px;
+
+//---------------------------------------------------
+
+//colores para bloque-texto-b
+.bloque-texto-1
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 60%;
+    content: '';
+    position: absolute;
+    top: 41px;
+    left: 310px;
+    right: 20px;
+    bottom: 0;
+    background-color: #f2fbe3;
+  &__texto
+    position: relative
+  @media ( max-width: 500px )
+    &:before
+      top: 41px;
+      left: 100px;
+      right: 0px;
+      bottom: 0;
+
+.bloque-texto-2
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 30%
+    content: ''
+    position: absolute
+    top: 0px
+    left: 0px
+    right: 250px
+    bottom: 0
+    background-color: #f2fbe3
+  &__texto
+    position: relative
+  @media ( max-width: 500px )
+    &:before
+      top: 0px
+      right: 160px 
+
+.bloque-texto-3
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 30%
+    width: 100%
+    content: ''
+    position: absolute
+    top: 120px
+    left: 0px
+    right: 250px
+    bottom: 0
+    background-color: #F0F8FF
+  &__texto
+    position: relative
+  @media ( max-width: 500px )
+    &:before
+      top: 300px
+      right: 160px
+//-----------------------------------------------
+
+//tabsA------------------------
+
+
+
+//color tabsa inactivas
+.tabs-a__tab
+  background-color: #E8E8E8  
+  
+//------------------------
 
 @keyframes float1
   0%

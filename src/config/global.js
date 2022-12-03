@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Gestión de comunidades virtuales',
+    descripcionCurso:
+      'La gestión de comunidades virtuales implica un conocimiento sobre el ecosistema digital, de tal forma que se puedan usar los canales de comunicación digitales de manera oportuna, según las características de cada empresa. Es necesario crear parrillas de contenidos digitales que organicen las publicaciones diarias, tener en cuenta la propiedad intelectual y conocer la normativa de seguridad de la información.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -32,14 +33,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Ecosistemas digitales',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Características',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Elementos',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Factores de éxito',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Estrategias',
+            hash: 't_1_4',
           },
         ],
       },
@@ -50,13 +69,80 @@ export default {
         numero: '2',
         titulo: 'Titulo de primer nivel',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Ventajas',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Importancia',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Pasos para crear una parrilla',
+            hash: 't_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'Calendario de contenido',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Propiedad intelectual (PI)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Tipos de PI',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Derechos de la PI',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Sujetos de la PI',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Normativa de seguridad de la información',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Marco normativo',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Protocolos básicos de seguridad informática',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -101,32 +187,107 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Ecosistemas digitales',
+      referencia:
+        'Duplica más (2020) <em>Cómo funciona el ecosistema digital</em> [video] YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=XyB2CAbMGTw&t=47s',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Parrilla de contenidos digitales',
+      referencia:
+        'Guzmán, L. (2021) <em>Organiza el contenido de tus redes sociales en una parrilla de contenidos</em>. [video] YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=TM795AkMnCg',
+    },
+    {
+      tema: 'Propiedad Intelectual (PI)',
+      referencia:
+        'Organización Mundial de la Propiedad Intelectual –OMPI y Organización Mundial del Turismo - OMT (2021) <em>Promover el desarrollo del turismo mediante la propiedad intelectual.</em>',
+      tipo: 'Publicación electrónica',
+      link: 'https://www.wipo.int/edocs/pubdocs/es/wipo_pub_1054.pdf',
+    },
+    {
+      tema: 'Normativa de Seguridad de la Información',
+      referencia:
+        'Ministerio de Medio Ambiente y Desarrollo Sostenible -Minambiente (2021) <em>Manual de seguridad de la información.</em>',
+      tipo: 'Manual',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2022/06/Manual-de-seguridad-de-la-informacion-M-E-GET-01.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Contenidos digitales',
+      significado:
+        'son cualquier publicación informativa que una marca puede compartir en medios digitales y que tienen diferentes posibilidades en formatos, como, por ejemplo, texto, imagen, audio, video, infografía, multimedia, mapas mentales, etc.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Conversión',
+      significado:
+        'es el porcentaje de individuos que terminan realizando la acción que una marca desea que hagan, como, por ejemplo, comprar, suscribirse, registrarse, dar likes, entre otras. ',
+    },
+    {
+      termino: 'Derechos de autor',
+      significado:
+        'grupo de reglamentos jurídicos y normas que certifican los derechos patrimoniales y morales que la ley otorga a los creadores, por haber sido los autores de un trabajo artístico, literario, científico, musical o didáctico, sin importar si se ha publicado o es inédito.',
+    },
+    {
+      termino: 'Ecosistema digital',
+      significado:
+        'grupo de TI que se hallan interrelacionadas unas con otras. Se refiere a todas las herramientas que usa una empresa para administrar sus proyectos.',
+    },
+    {
+      termino: '<em>Landing Page</em>',
+      significado:
+        'página <em>web</em> a la que un individuo llega luego de dar clic en un hipervínculo, que puede estar ubicado en un <em>blog</em>, portal, <em>banner</em>, red social, correo electrónico o anuncio publicitario.',
+    },
+    {
+      termino: 'Parrilla de contenidos',
+      significado:
+        'herramienta que sirve para organizar inteligentemente las diferentes publicaciones que una marca desea compartir con su público objetivo a través de los diferentes medios digitales, como, por ejemplo, redes sociales, <em>blog, landing page</em> y correo electrónico.',
+    },
+    {
+      termino: 'Patente',
+      significado:
+        'grupo de derechos distintivos que se conceden por un país al creador de un nuevo producto o tecnología, con el fin de explotarse de manera comercial por una etapa limitada de tiempo, a cambio de la promoción de la creación.',
+    },
+    {
+      termino: 'Propiedad intelectual',
+      significado:
+        'tiene que ver con un bien cultural y económico que contiene productos tangibles e intangibles, que se reconocen en la mayoría de lineamientos de los países y que se pueden explotar económicamente por parte de los dueños legales.',
+    },
+    {
+      termino: 'Tecnologías de la Comunicación y la Información',
+      significado:
+        'son tecnologías que usan las telecomunicaciones, informática y microelectrónica para desarrollar novedosas maneras de comunicación a partir de herramientas tecnológicas y comunicacionales, con el objetivo de facilitar la transferencia, acceso y uso de la información.',
+    },
+    {
+      termino: 'Tráfico',
+      significado:
+        'es el porcentaje de individuos que visitan el sitio <em>web</em> de una marca en especial.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Documento electrónico: Función Pública. (2020). <em>Políticas de Operación Proceso de Tecnologías de la Información</em>',
       link: '',
+    },
+    {
+      referencia:
+        'Libro: Martín, D. C. (2018). SEO. Curso práctico. RA-MA Editorial',
+      link: '',
+    },
+    {
+      referencia:
+        'Libro: Nespral, D., y Hergueta, R. (2021). <em>El modelo descentralizado hacia la economía digital</em>. Ediciones de la U.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sitio web: Organización Mundial de la Propiedad Intelectual - OMPI. (s.f.) <em>OMPI</em>.',
+      link: 'https://www.wipo.int/portal/es/',
     },
   ],
   creditos: {
