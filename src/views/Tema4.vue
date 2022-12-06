@@ -61,7 +61,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Leer documento.]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/')" target="_blank")
+                  a.boton.color-acento-botones(href="https://img1.wsimg.com/blobby/go/b653c9ee-535c-4528-a9c5-bb00166ad0dc/downloads/1cd65ml0r_919353.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -140,8 +140,9 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Leer documento.]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/')" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/documents/418537/36701283/politica-de-seguridad-de-la-informacion.pdf.pdf/325019e5-a92f-0b44-3676-2356bd71240c?t=1586355315672" target="_blank")
                     span Descargar
+                    i.fas.fa-file-download
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
