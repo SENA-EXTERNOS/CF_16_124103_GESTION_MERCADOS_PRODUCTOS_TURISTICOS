@@ -39,7 +39,7 @@
             p Por tanto, se refiere a los ajustes hacia el interior de las compañías y a la malla de ayudas establecidas para brindar mejores bienes o servicios (de forma digital, especialmente de la mano de las tecnologías de la información y la comunicación - TIC). De esta manera se forman interacciones #[em online] entre las marcas con sus socios y clientes, de manera que se generen beneficios para ellos. Al interior de una empresa, el ecosistema digital debe crear oportunidades digitales para brindar un servicio de calidad que tenga excelentes soluciones a los usuarios; es así como las empresas pueden comenzar a crecer.
 
           .tarjeta.estilo-right.tamano3.p-4(x="59.7%" y="50%" numero="")
-            p Un ecosistema digital permite el posicionamiento y control de todo lo que tiene que ver con los mensajes que una empresa desea enviar a su público objetivo y que sean relevantes para este. Además de lograr que la marca sea más visible a través de zonas de interacción en las que se pueden captar leads y contactar clientes. De esta manera se pueden crear comunidades virtuales que ayuden a su conocimiento.
+            p Un ecosistema digital permite el posicionamiento y control de todo lo que tiene que ver con los mensajes que una empresa desea enviar a su público objetivo y que sean relevantes para este. Además de lograr que la marca sea más visible a través de zonas de interacción en las que se pueden captar #[em leads] y contactar clientes. De esta manera se pueden crear comunidades virtuales que ayuden a su conocimiento.
 
           .tarjeta.estilo-left.tamano5.p-4(x="78.9%" y="50%" numero="" )
             p Con estos ambientes virtuales se pueden generar áreas donde se interactúe con la audiencia, lo que permite mejorar la empatía, relación y vínculo con sus miembros. Es así como una empresa puede tener un mejoramiento en la atención, fidelización y soporte de los clientes. 
@@ -88,7 +88,7 @@
               p.mb-0 Emergen porque los ecosistemas digitales facultan a los clientes para que se conecten e interactúen, como lo hacen, por ejemplo, en las redes sociales, y también, poder ingresar a #[em marketplaces], y a productos y servicios de distintos vendedores. De igual forma, una de sus más importantes actividades es facilitar conexiones, siendo esta razón por la cual su valor aumenta a medida que crece el número de participantes y mejora el nivel de interacción con los miembros.
           .row(titulo="Puertas de acceso")
             .col-12.ps-5
-              p.mb-0 Un ecosistema digital funciona como una puerta para acceder a bienes y servicios de todo tipo de marcas. Por ejemplo, las tiendas de #[em apps] que instauran las condiciones para establecer y comercializar aplicaciones de servicios para pagar telefonía celular, de mensajería o de juegos. También puede servir como una forma de dirigirse a plataformas de motores de búsqueda, donde los navegantes ingresan a canales de comunicación, sitios #[em web] de #[em e-commerce] o servicios para reservar viajes. No hay duda de que un ecosistema digital posibilita un nivel de control sobre otros bienes y servicios, además de alcanzar otros mercados que se relacionen, admitiendo de esta manera el incremento de la malla alrededor de los clientes.
+              p.mb-0 Un ecosistema digital funciona como una puerta para acceder a bienes y servicios de todo tipo de marcas. Por ejemplo, las tiendas de #[em apps] que instauran las condiciones para establecer y comercializar aplicaciones de servicios para pagar telefonía celular, de mensajería o de juegos. También puede servir como una forma de dirigirse a plataformas de motores de búsqueda, donde los navegantes ingresan a canales de comunicación, sitios web de #[em e-commerce] o servicios para reservar viajes. No hay duda de que un ecosistema digital posibilita un nivel de control sobre otros bienes y servicios, además de alcanzar otros mercados que se relacionen, admitiendo de esta manera el incremento de la malla alrededor de los clientes.
           .row(titulo="<em>Big data</em>")
             .col-12.ps-5
               p.mb-0 Las marcas pueden tener una buena cantidad de datos relacionados con los clientes, lo que permite una mejoría en la calidad de servicios, desplegando, de esta forma, funcionalidades excelentes y novedosas. Así, se incrementa la participación de los miembros y la obtención de nuevos, la recopilación de mayor cantidad de datos, el logro de una mejoría continua en cuanto a la oferta de valor y el refuerzo de la participación en el mercado.
@@ -198,7 +198,7 @@
                   img(src='@/assets/curso/temas/tema1/t1-14.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
                 h5 Content #[em Marketing:]
-                p Tiene que ver con la publicación permanente de contenidos optimizados que sirven para la atracción de potenciales clientes al sitio #[em web]. Debe ser contenido deseado por el cliente para poderlo atraer. Aumenta la cantidad de interacciones.
+                p Tiene que ver con la publicación permanente de contenidos optimizados que sirven para la atracción de potenciales clientes al sitio web. Debe ser contenido deseado por el cliente para poderlo atraer. Aumenta la cantidad de interacciones.
 
 
           div(x="70%" y="16%" tooltip="" numero="")
@@ -208,7 +208,7 @@
                   img(src='@/assets/curso/temas/tema1/t1-15.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
                 h5 Redes Sociales:
-                p Ayudan a difundir mejor el sitio #[em web] y los contenidos de calidad compartidos a través de estas herramientas. Agrupa aspectos del mercadeo con la presencia del #[em social media.]
+                p Ayudan a difundir mejor el sitio web y los contenidos de calidad compartidos a través de estas herramientas. Agrupa aspectos del mercadeo con la presencia del #[em social media.]
 
 
           div(x="92%" y="16%" tooltip="" numero="")
@@ -218,7 +218,7 @@
                   img(src='@/assets/curso/temas/tema1/t1-16.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
                 h5 Correo electrónico:
-                p Herramienta con la que se puede mantener informados a los suscriptores acerca de novedades, noticias y promociones de la empresa, llevando tráfico al sitio #[em web]. También sirve para fidelizar los clientes a través de mensajes de agradecimiento (por la primera compra o por ser clientes fieles), felicitaciones (por fechas especiales, como cumpleaños), etc.
+                p Herramienta con la que se puede mantener informados a los suscriptores acerca de novedades, noticias y promociones de la empresa, llevando tráfico al sitio web. También sirve para fidelizar los clientes a través de mensajes de agradecimiento (por la primera compra o por ser clientes fieles), felicitaciones (por fechas especiales, como cumpleaños), etc.
 
 
           div(x="18%" y="59.5%" tooltip="" numero="")
@@ -247,7 +247,7 @@
                   img(src='@/assets/curso/temas/tema1/t1-19.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
                 h5 Conversión:
-                p Se refiere al proceso de informar, atraer y deleitar a los individuos que visiten la #[em web] con el fin de que terminen haciendo la acción deseada por la empresa (compra, suscripción, registro, seguir en redes sociales, etc.). Puede iniciar desde la #[em landing page], donde los clientes llegan para realizar la acción según el interés del mensaje, y se puede dar a través de correos electrónicos, formatos de suscripción o registro, nutrición de #[em leads], etc. 
+                p Se refiere al proceso de informar, atraer y deleitar a los individuos que visiten la web con el fin de que terminen haciendo la acción deseada por la empresa (compra, suscripción, registro, seguir en redes sociales, etc.). Puede iniciar desde la #[em landing page], donde los clientes llegan para realizar la acción según el interés del mensaje, y se puede dar a través de correos electrónicos, formatos de suscripción o registro, nutrición de #[em leads], etc. 
 
 
           div(x="81.5%" y="59.5%" numero="")

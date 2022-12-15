@@ -16,7 +16,7 @@
             figure
               img(src='@/assets/curso/temas/intro.svg', alt='Texto que describa la imagen').animacion-flotante
           .col-lg-9.col-xs-6.mt-2
-            p.mt-3 Estimado aprendiz, al finalizar este recurso se espera que logre manejar contenido en una #[strong comunidad virtual] de acuerdo con estrategias de #[emmarketing] y comunicación digital, con el fin de que, a futuro, pueda estructurarla de acuerdo con técnicas de #[em marketing] digital y tipo de negocio. Con los recursos que aprenda aquí, podrá usar los canales de comunicación digitales de manera oportuna, según las características de cada empresa. Es necesario crear parrillas de contenidos digitales que organicen las publicaciones diarias, tener en cuenta la propiedad intelectual y conocer la normativa de seguridad de la información.
+            p.mt-3 Estimado aprendiz, bienvenido a este recurso educativo. Al finalizar este recurso se espera que logre manejar contenido en una #[strong comunidad virtual] de acuerdo con estrategias de #[em marketing] y comunicación digital, con el fin de que, a futuro, pueda estructurarla de acuerdo con técnicas de #[em marketing] digital y tipo de negocio. Con los recursos que aprenda aquí, podrá usar los canales de comunicación digitales de manera oportuna, según las características de cada empresa. Es necesario crear parrillas de contenidos digitales que organicen las publicaciones diarias, tener en cuenta la propiedad intelectual y conocer la normativa de seguridad de la información.
 
     .row.justify-content-center
       p En el siguiente video conocerá, de forma general, la temática que estudiará a lo largo del componente formativo.

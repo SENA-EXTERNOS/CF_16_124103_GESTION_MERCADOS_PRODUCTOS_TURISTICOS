@@ -22,7 +22,7 @@
       .col-lg-10
         .bloque-texto-2
           .bloque-texto-2__texto
-            p La PI hace referencia a toda creación realizada desde el intelecto humano: desde trabajos artísticos hasta inventos, innovaciones, softwares, marcas y demás símbolos comerciales.       
+            p La PI hace referencia a toda creación realizada desde el intelecto humano: desde trabajos artísticos hasta inventos, innovaciones, #[em software], marcas y demás símbolos comerciales.       
 
     .row.justify-content-center
       .col-lg-8
@@ -34,6 +34,7 @@
       h2.mt-3 3.1 Tipos de PI
 
     .row.justify-content-center
+      p Los tipos de PI son los siguientes:
       TabsA.color-acento-contenido.mt-3
         .tarjeta.color-acento-contenido.p-3(style="background-color:#fee3e4" titulo="Tipos de PI")
           .row.justify-content-center.p-3
@@ -51,7 +52,7 @@
                   | Patentes.
                 li 
                   i.fas.fa-check.vineta-fuscia
-                  | Marcas
+                  | Marcas.
         
         .tarjeta.color-acento-contenido.p-3(style="background-color:#fee3e4" titulo="Derechos de autor")
           .row.justify-content-center.p-3
@@ -68,7 +69,7 @@
                   | Trabajos literarios como poemas, novelas, obras de referencia, escrituras escénicas, artículos de prensa, entre otras.
                 li 
                   i.fas.fa-check.vineta-fuscia
-                  | #[em Software] y BDs.
+                  span #[em Software] y BDs.
                 li 
                   i.fas.fa-check.vineta-fuscia
                   | Películas, coreografías y composiciones musicales.    

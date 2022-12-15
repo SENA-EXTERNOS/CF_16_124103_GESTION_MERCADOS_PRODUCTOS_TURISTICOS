@@ -67,7 +67,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Parrilla de contenidos digitales',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -225,7 +225,7 @@ export default {
     {
       termino: 'Conversión',
       significado:
-        'es el porcentaje de individuos que terminan realizando la acción que una marca desea que hagan, como, por ejemplo, comprar, suscribirse, registrarse, dar likes, entre otras. ',
+        'es el porcentaje de individuos que terminan realizando la acción que una marca desea que hagan, como, por ejemplo, comprar, suscribirse, registrarse, dar <em>likes</em>, entre otras. ',
     },
     {
       termino: 'Derechos de autor',
@@ -240,7 +240,7 @@ export default {
     {
       termino: '<em>Landing Page</em>',
       significado:
-        'página <em>web</em> a la que un individuo llega luego de dar clic en un hipervínculo, que puede estar ubicado en un <em>blog</em>, portal, <em>banner</em>, red social, correo electrónico o anuncio publicitario.',
+        'página web a la que un individuo llega luego de dar clic en un hipervínculo, que puede estar ubicado en un <em>blog</em>, portal, <em>banner</em>, red social, correo electrónico o anuncio publicitario.',
     },
     {
       termino: 'Parrilla de contenidos',
@@ -265,14 +265,15 @@ export default {
     {
       termino: 'Tráfico',
       significado:
-        'es el porcentaje de individuos que visitan el sitio <em>web</em> de una marca en especial.',
+        'es el porcentaje de individuos que visitan el sitio web de una marca en especial.',
     },
   ],
   referencias: [
     {
       referencia:
         'Documento electrónico: Función Pública. (2020). <em>Políticas de Operación Proceso de Tecnologías de la Información</em>',
-      link: '',
+      link:
+        'https://www.funcionpublica.gov.co/documents/418537/36701283/politica-de-seguridad-de-la-informacion.pdf.pdf/325019e5-a92f-0b44-3676-2356bd71240c?t=1586355315672',
     },
     {
       referencia:

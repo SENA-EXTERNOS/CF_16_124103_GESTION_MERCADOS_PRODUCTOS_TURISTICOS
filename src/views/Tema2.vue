@@ -36,7 +36,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2-1.svg", alt="alt").numero.img-movil
             .col
-              p Se refiere a captar la información de los colaboradores mediante cuestionarios con preguntas abiertas y/o cerradas, a través de canales físicos o digitales, los cuales permiten identificar el cumplimiento de las habilidades y destrezas de los individuos que se van a evaluar.
+              p Facilitar la publicación automática de contenidos digitales para lograr el posicionamiento en motores de búsqueda.
         .crd.crd--avatarHorizontal.crd-color2.py-4
           .row.align-items-center
             .col-auto
@@ -92,7 +92,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2-9.svg", alt="alt").numero.img-movil
             .col
-              p Ayudar al desarrollo de la analítica #[em web].
+              p Ayudar al desarrollo de la analítica web.
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -133,7 +133,7 @@
       h2.mt-3 2.3 Pasos para crear una parrilla
 
     .row.justify-content-center
-      p Revise los contenidos dispuestos en el #[strong Anexo 3]. Pasos para crear una parrilla
+      p Revise los contenidos dispuestos en el #[strong Anexo 3]. Pasos para crear una parrilla.
 
     .row.justify-content-center.mt-3
       .col-lg-10
@@ -155,7 +155,7 @@
       h2.mt-3 2.4 Calendario de contenido
 
     .row.justify-content-center
-      p Revise los contenidos dispuestos en el #[strong Anexo 4]. Calendario de contenido
+      p Revise los contenidos dispuestos en el #[strong Anexo 4]. Calendario de contenido.
 
     .row.justify-content-center.mt-3
       .col-lg-10
