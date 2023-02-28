@@ -22,19 +22,16 @@
       .col-lg-10
         .bloque-texto-2
           .bloque-texto-2__texto
-            p La PI hace referencia a toda creación realizada desde el intelecto humano: desde trabajos artísticos hasta inventos, innovaciones, #[em software], marcas y demás símbolos comerciales.       
+            p La PI hace referencia a toda creación realizada desde el intelecto humano, tales como: trabajos artísticos hasta inventos, innovaciones, <i>softwares</i>, marcas y demás símbolos comerciales.    
 
     .row.justify-content-center
       .col-lg-8
         .cajon.color1.p-4
           p De acuerdo a lo anterior, conozca los tipos de propiedad intelectual.
 
-    separador
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 3.1 Tipos de PI
-
+    h3(data-aos="fade-left").mt-5 Tipos de propiedad intelectual
     .row.justify-content-center
-      p Los tipos de PI son los siguientes:
+      p Los tipos de propiedad intelectual son derechos de autor, patentes y marcas, los cuales están detallados a continuación:
       TabsA.color-acento-contenido.mt-3
         .tarjeta.color-acento-contenido.p-3(style="background-color:#fee3e4" titulo="Tipos de PI")
           .row.justify-content-center.p-3
@@ -92,7 +89,7 @@
 
             .col-lg-9
               p Son un derecho exclusivo que se confiere sobre un invento. Generalmente, es un manifiesto que autoriza al dueño a definir si el invento puede ser usado por terceros y de qué manera. Como contrapeso, en la publicación del documento, el dueño brinda al público los datos técnicos relacionados con el invento.
-              p Inicialmente, este posee el exclusivo derecho a imposibilitar que pueda ser patentado y se explote de forma comercial por terceros, con lo cual se quiere decir que a un invento no se le puede dar uso, ni de producción o distribución con un objetivo comercial, sin su aval.
+              p Inicialmente, este posee el exclusivo derecho a imposibilitar que pueda ser patentado y se explote de forma comercial por terceros, con lo cual  quiere decir que a un invento no se le puede dar uso, ni de producción o distribución con un objetivo comercial, sin su aval.
               p Ahora bien, las patentes analizadas desde un aspecto territorial, generalmente, poseen exclusivos derechos que corresponden y son válidos únicamente en el país de origen donde se presentó la solicitud y se concedió el manifiesto, de conformidad con la reglamentación de esa región.
 
         .tarjeta.color-acento-contenido.p-3(style="background-color:#fee3e4" titulo="Marcas")
@@ -102,17 +99,15 @@
                 img(src='@/assets/curso/temas/tema3/t3-5.svg', alt='')           
 
             .col-lg-9
-              p Es el Registro de Marca #[em (copyright)], que es un signo que sirve para observar las diferencias entre bienes o servicios existentes de un negocio a otro. Las marcas son derechos de PI que se encuentran amparados. A nivel regional o nacional, una marca se puede proteger registrándola, es decir, exhibiendo una solicitud para registrarla en la oficina de marcas y pagando el dinero correspondiente. A nivel global, hay dos elecciones: primero, mostrar la solicitud en la oficina de todos los países en donde se desee tener esta protección; o segundo, usar el Sistema de Madrid, que viene siendo una solución hábil y económica con la que se puede hacer registro y gestión de marcas a nivel internacional. Solo se requiere de la presentación de una sola solicitud y hacer un pago para pedirla en máximo 128 países.
+              p Es el Registro de Marca (copyright), que es un signo que sirve para observar las diferencias entre bienes o servicios existentes de un negocio a otro. Las marcas son derechos de PI que se encuentran amparados. A nivel regional o nacional, una marca se puede proteger registrándose, es decir, exhibiendo una solicitud para registrarla en la oficina de marcas y pagando el dinero correspondiente. A nivel global, hay dos elecciones: primero, mostrar la solicitud en la oficina de todos los países en donde se desee tener esta protección; o segundo, usar el Sistema de Madrid, que viene siendo una solución hábil y económica con la que se puede hacer registro y gestión de marcas a nivel internacional. Solo se requiere de la presentación de una sola solicitud y hacer un pago para pedirla en máximo 128 países. 
               p Inicialmente, el registro de marca es conferido al dueño, es decir, a quien posee los exclusivos derechos de uso. O sea, la marca puede ser usada únicamente por él, o a cambio de un dinero, puede ser conferida en licencia a un tercero. Es una estrategia que brinda seguridad legal y robustece la posición del dueño del exclusivo derecho.
               p El tiempo en el que el registro es válido varía, pero, por lo general, son diez años, que se pueden renovar de manera indefinida si se hace un pago adicional. Es un derecho privado donde el amparo se hace presente en los estrados judiciales.
               p Las marcas consisten en una palabra o varias palabras, cifras y letras. También consisten en símbolos, dibujos, particularidades tridimensionales, como la forma, el empaque y el envase de bienes; o también, en signos que no se ven, como, por ejemplo, sonidos, olores o colores usados como particularidades distintivas; por lo tanto, las opciones que se pueden tener para protegerlas son muy amplias.
 
-    separador
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 3.2 Derechos de la PI
+    h3(data-aos="fade-left").mt-5 Derechos de la PI
 
     .row.justify-content-center
-      p En cuanto a los derechos de la propiedad intelectual, revise los contenidos dispuestos en el #[strong Anexo 5]. ‘Derechos de la PI’.
+      p En cuanto a los derechos de la propiedad intelectual, revise los contenidos dispuestos en el anexo 5. ‘Derechos de la PI’.
 
     .row.justify-content-center.mt-3
       .col-lg-10
@@ -129,12 +124,11 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    separador
-    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 3.3 Sujetos de la PI
+    h3(data-aos="fade-left").mt-5 Sujetos de la PI
 
     .row.justify-content-center
-      p Revise los contenidos dispuestos en el #[strong Anexo 6]. ‘Sujetos de la PI’, para ampliar información de los sujetos de la propiedad intelectual.
+      p Revise los contenidos dispuestos en el anexo 6. ‘Sujetos de la PI’, para ampliar información de los sujetos de la propiedad intelectual.
+
 
     .row.justify-content-center.mt-3
       .col-lg-10

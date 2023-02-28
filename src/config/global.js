@@ -55,7 +55,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Normativa de seguridad de la información',
+        titulo: 'Normativa de la seguridad de la información',
         desarrolloContenidos: true,
       },
     ],

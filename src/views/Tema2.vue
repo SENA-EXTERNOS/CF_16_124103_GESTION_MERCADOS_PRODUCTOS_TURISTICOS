@@ -15,12 +15,10 @@
         .b1.bloque-texto-b.p-3
           .b1.bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 Con el diseño de una excelente estrategia de contenidos digitales se pueden obtener posiciones más privilegiadas en los diferentes motores de búsqueda. Por esta razón, es indispensable para la marca publicar, de manera frecuente, contenidos de calidad haciendo uso de una parrilla, que es la herramienta perfecta para conseguirlo. Es vital contar con un sistema en el que se puedan organizar las publicaciones para diseñar las estrategias de contenidos digitales de manera eficiente, elaborando una parrilla que cuente con un cronograma planificado de publicaciones que dé como resultado la atracción de muchos usuarios al sitio #[em web, landing page], redes sociales, blog o tienda virtual de la empresa.
+            p.mb-0 Martín (2018) comenta que con el diseño de una excelente estrategia de contenidos digitales se pueden obtener posiciones más privilegiadas en los diferentes motores de búsqueda. Por esta razón, es indispensable para la marca, publicar de manera frecuente, contenidos de calidad haciendo uso de una parrilla, que es la herramienta perfecta para conseguirlo. Es vital contar con un sistema en el que se puedan organizar las publicaciones para diseñar las estrategias de contenidos digitales de manera eficiente, elaborando una parrilla que cuente con un cronograma planificado de publicaciones que dé como resultado la atracción de muchos usuarios al sitio web, <i>landing page</i>, redes sociales, blog o tienda virtual de la empresa.
             i.fas.fa-quote-right
 
-    separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.1 Ventajas
+    h3(data-aos="fade-left").mt-5 Ventajas de la parrilla de contenidos digitales
 
     .row.justify-content-center.mt-5
       p El uso correcto de una parrilla de contenidos puede beneficiar a las empresas con ventajas como, por ejemplo:
@@ -43,14 +41,14 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2-2.svg", alt="alt").numero.img-movil
             .col
-              p Disminuir errores que se relacionan con la ortografía, la redacción de textos y el análisis de los contenidos digitales.
+              p Disminuir errores que se relacionan con ortografía, redacción de textos y análisis de los contenidos digitales, entre otros.
         .crd.crd--avatarHorizontal.crd-color1.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/tema2/t2-3.svg", alt="alt").numero.img-movil
             .col
-              p Evitar el olvido de publicaciones, acciones o fechas relevantes, como, por ejemplo, el #[em Ciber] lunes, el #[em Black Friday], el día sin IVA, el día del padre o de la madre, etc.).
+              p Evitar el olvido de publicaciones, acciones o fechas relevantes, como, por ejemplo, <i>Cyberlunes</i>, <i>Black Friday</i>, el día sin IVA,  día del padre o de la madre, fechas importantes de la marca, etc.
         .crd.crd--avatarHorizontal.crd-color2.py-4
           .row.align-items-center
             .col-auto
@@ -94,17 +92,13 @@
             .col
               p Ayudar al desarrollo de la analítica web.
 
-    separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.2 Importancia
+    h3(data-aos="fade-left").mt-5 Importancia de la parrilla de contenido
 
+    p.mt-5 Contar con el diseño de una parrilla de contenidos digitales es de vital importancia para las empresas, además de ser una de las mejores técnicas para enfrentar problemas de redacción, de enfoque, de calendario, de horario, de automatización, etc. 
     .row.justify-content-center.mt-5
       .col-lg-10
         .cajon.color1.p-4
-          p A continuación encontrará una presentación que le ampliará lo referente a la importancia a la parrilla de contenidos digitales  
-
-      p.mt-5 Contar con el diseño de una parrilla de contenidos digitales es de vital importancia para las empresas, además de ser una de las mejores técnicas para enfrentar problemas de redacción, de enfoque, de calendario, de horario, de automatización, etc. 
-
+          p A continuación encontrará una presentación que le ampliará lo referente a la importancia de la parrilla de contenidos digitales.
     .bkg-slyder.px-5.py-5.mb-5.mt-5
       SlyderA(tipo="b")
         .row.justify-content-center
@@ -116,7 +110,7 @@
 
         .row.justify-content-center
           .col-md-8
-            p Sin embargo, la estrategia de tener una excelente parrilla de contenidos digitales se puede ver afectada por una mala planeación de las distintas publicaciones, haciendo que los resultados no sean los esperados, sin importar los esfuerzos realizados en la estrategia diseñada para redes sociales.
+            p La estrategia de tener una excelente parrilla de contenidos digitales se puede ver afectada por una mala planeación de las distintas publicaciones, haciendo que los resultados no sean los esperados, sin importar los esfuerzos realizados en la estrategia diseñada para redes sociales.
           .col-md-4
             figure
              img(src='@/assets/curso/temas/tema2/t2-12.svg', alt='Texto que describa la imagen').mt-2
@@ -128,9 +122,7 @@
             figure
              img(src='@/assets/curso/temas/tema2/t2-13.svg', alt='Texto que describa la imagen').mt-2  
 
-    separador
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.3 Pasos para crear una parrilla
+    h3(data-aos="fade-left").mt-5 Pasos para crear una parrilla
 
     .row.justify-content-center
       p Revise los contenidos dispuestos en el #[strong Anexo 3]. Pasos para crear una parrilla.
@@ -150,9 +142,7 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    separador
-    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.4 Calendario de contenido
+    h3(data-aos="fade-left").mt-5 Calendario de contenido
 
     .row.justify-content-center
       p Revise los contenidos dispuestos en el #[strong Anexo 4]. Calendario de contenido.

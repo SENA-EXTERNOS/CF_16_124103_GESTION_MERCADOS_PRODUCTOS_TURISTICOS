@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Normativa de seguridad de la información
+      h1 Normativa de la seguridad de la información
 
     .row.justify-content-center
       .col-lg-3.justify-content-center(data-aos="flip-up")
@@ -21,7 +21,7 @@
       .col-lg-8      
         AcordionA(tipo="b" clase-tarjeta="tarjeta acordeonA").mt-5
           .row(titulo="La tecnología, la materia prima más importante para la buena administración").p-3
-            p Esta se va desarrollando, creciendo y evolucionando veloz y constantemente, solicitando instaurar normas de seguridad que disminuyan las alteraciones, escape o no disponibilidad de los datos durante las fases de producción, creación y ejecución de las herramientas, inclusive durante su uso. Es por esto que la misma busca: primero, la definición de normas, revisiones, roles y compromisos para la dirección de la información; segundo, administrar lo mejor posible las amenazas que puedan tener los sistemas informativos, de revisión y administración; y, tercero, restringir la posibilidad de ataques que violenten y den mala utilidad a los datos.
+            p Esta se va desarrollando, creciendo y evolucionando veloz y constantemente, solicitando instaurar normas de seguridad que disminuyan las alteraciones, escape o no disponibilidad de los datos durante las fases de producción, creación y ejecución de las herramientas, inclusive durante su uso. Es por esto que la misma busca: primero, la definición de normas, revisiones, roles y compromisos para la dirección de la información; segundo, administrar lo mejor posible las amenazas que puedan tener los sistemas informativos de revisión y administración; y, tercero, restringir la posibilidad de ataques que violenten y den mala utilidad a los datos. 
           
           .row(titulo="Lineamientos en seguridad").p-3
             p Función Pública (2020) fortalece en un documento los lineamientos que garantizan la privacidad, rectitud, disponibilidad, no rechazo y acatamiento de los deberes en cuanto al uso de datos personales, el buen tratamiento y seguridad de la información, además del funcionamiento apropiado de las herramientas tecnológicas disponibles para los beneficiarios.
@@ -45,10 +45,10 @@
             p Se aplican a los actores de Función Pública, como todos los funcionarios públicos, asistentes y contratistas que administran y/o gestionan datos de la entidad, comprendidas las operaciones de compilación, estudio, proceso, disposición, protección, mantenimiento y rescate de la información. 
 
           .row(titulo="La norma ISO 27001").p-3
-            p Internacionalmente es la que rige y, es legítima y reconocida en casi todos los países como modelo que instaura cómo una empresa puede desarrollar su procedimiento de gestión de seguridad informática. Esta admite que las empresas evalúen el peligro y la aplicación de los exámenes requeridos para atenuarlos o excluirlos. Los requerimientos se contienen en una distribución de 10 capítulos, que como las demás normas ISO (por ejemplo, ISO 9001 o la ISO 14001), goza de excelente aprobación por parte de las compañías. Es por esto que se hace bastante simple para una empresa efectuar una unificación en su procedimiento de gestión que acumule las exigencias habituales y específicas de cada norma, por ejemplo.
+            p Internacionalmente es la que rige y, es legítima y reconocida en casi todos los países como modelo que instaura cómo una empresa puede desarrollar su procedimiento de gestión de seguridad informática. Esta admite que las empresas evalúen el peligro y la aplicación de los exámenes requeridos para atenuarlos o excluirlos. Los requerimientos se contienen en una distribución de 10 capítulos, que como las demás Normas ISO (por ejemplo, ISO 9001 o la ISO 14001), goza de excelente aprobación por parte de las compañías. Es por esto que se hace bastante simple para una empresa efectuar una unificación en su procedimiento de gestión que acumule las exigencias habituales y específicas de cada norma, por ejemplo.
 
     .row.justify-content-center
-      p Para conocer más sobre la norma ISO 29001 se deja el siguiente enlace que lleva al documento que rige para Colombia:
+      p Para conocer más sobre la Norma ISO 29001 que rige para Colombia, consulte el siguiente documento complementario. Leer documento
 
     .row.justify-content-center.mt-5
       .col-lg-10
@@ -70,9 +70,7 @@
         .cajon.color1.p-4
           p De acuerdo con lo anterior, en la siguiente infografía encontrará información sobre el marco normativo.
 
-    separador
-    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 4.1 Marco normativo
+    h3(data-aos="fade-left").mt-5 Marco normativo
 
     .row.justify-content-center
       p La mayor parte de actividades y trabajos realizados por las empresas crea una alta cantidad de datos confidenciales recogidos a través de diferentes documentos, como lo son, facturas, órdenes de compra, órdenes de pago y nómina, entre otros. Es vital implementar medidas de seguridad de la información para poder desarrollar trabajos de manera oportuna y, además, para poder cumplir con las leyes actuales relacionadas con la protección de los datos.
@@ -144,12 +142,10 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    separador
-    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 4.2 Protocolos básicos de seguridad informática
+    h3(data-aos="fade-left").mt-5 Protocolos básicos de seguridad informática
 
     .row.justify-content-center.mt-3
-      p En cuanto a los protocolos de seguridad de la información, revise los contenidos dispuestos en el #[strong Anexo 7]. ‘Protocolos básicos de seguridad informática.’
+      p En cuanto a los protocolos de seguridad de la información, revise los contenidos dispuestos en el anexo 7. ‘Protocolos básicos de seguridad informática.’
       .col-lg-10.mt-3
         .tarjeta.color-descarga.p-4
           .row.justify-content-around.align-items-center

@@ -27,10 +27,20 @@
               img(data-aos="flip-left" src='@/assets/curso/temas/tema1/t1-1.svg', alt='Texto que describa la imagen')
 
           .tarjeta.estilo-right.tamano1.p-4(x="21.2%" y="50%" numero="")
-            p El término de ecosistema digital hace alusión a entornos estratégicos y digitales que permiten las siguientes intenciones: creación de tráfico competente, conversión de visitantes en #[em leads] (persona que expresa interés en la marca), calificación de los mismos, fidelización de clientes y aumento ventas.
-          
+            p El término de ecosistema digital hace alusión a entornos estratégicos y digitales que permiten las siguientes intenciones: 
+            ul.lista-ul.mt-3.ps-5
+              li 
+                i.fas.fa-check.vineta-fuscia
+                p.mb-0 Creación de tráfico competente. 
+              li 
+                i.fas.fa-check.vineta-fuscia
+                p.mb-0 Conversión de visitantes en leads (persona que expresa interés en la marca).
+              li 
+                i.fas.fa-check.vineta-fuscia
+                p.mb-0 Calificación de los mismos, fidelización de clientes y aumento ventas.
+
           .tarjeta.estilo-right.tamano2.p-4(x="40.5%" y="50%" numero="")
-            p Por tanto, se refiere a los ajustes hacia el interior de las compañías y a la malla de ayudas establecidas para brindar mejores bienes o servicios (de forma digital, especialmente de la mano de las tecnologías de la información y la comunicación - TIC). De esta manera se forman interacciones #[em online] entre las marcas con sus socios y clientes, de manera que se generen beneficios para ellos. Al interior de una empresa, el ecosistema digital debe crear oportunidades digitales para brindar un servicio de calidad que tenga excelentes soluciones a los usuarios; es así como las empresas pueden comenzar a crecer.
+            p Se refiere a los ajustes hacia el interior de las compañías y a la malla de ayudas establecidas para brindar mejores bienes o servicios (de forma digital, especialmente de la mano de las tecnologías de la información y la comunicación - TIC). De esta manera se forman interacciones <i>online</i> entre las marcas con sus socios y clientes, de manera que se generen beneficios para ellos. Al interior de una empresa, el ecosistema digital debe crear oportunidades digitales para brindar un servicio de calidad que tenga excelentes soluciones a los usuarios; es así como las empresas pueden comenzar a crecer.
 
           .tarjeta.estilo-right.tamano3.p-4(x="59.7%" y="50%" numero="")
             p Un ecosistema digital permite el posicionamiento y control de todo lo que tiene que ver con los mensajes que una empresa desea enviar a su público objetivo y que sean relevantes para este. Además de lograr que la marca sea más visible a través de zonas de interacción en las que se pueden captar #[em leads] y contactar clientes. De esta manera se pueden crear comunidades virtuales que ayuden a su conocimiento.
@@ -43,7 +53,7 @@
             ul.lista-ul.mt-3.ps-5
               li 
                 i.fas.fa-check.vineta-fuscia
-                | Aumentar las visitas al sitio #[em web] (tráfico).
+                p.mb-0 Aumentar las visitas al sitio #[em web] (tráfico).
               li 
                 i.fas.fa-check.vineta-fuscia
                 | Mejorar la interacción con la audiencia.
@@ -60,7 +70,7 @@
       .row.justify-content-center.mt-5
         .col-lg-6
           .cajon.color1.p-4
-            p Miremos ahora las características de los ecosistemas digitales
+            p.mb-0 Miremos ahora las características de los ecosistemas digitales
 
 
     h3(data-aos="fade-left").mt-5 Características del ecosistema digital
@@ -101,7 +111,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/t1-4.svg', alt='Texto que describa la imagen').animacion-flotante
           .col-lg-8.col-xs-6.mt-3
-            p Por su lado, un ecosistema digital mal organizado afecta mucho la producción, los procesos, el capital y la reputación de la marca con los clientes. Por ejemplo, un chat que es usado por los clientes de manera frecuente, pero que la marca ya no opera, puede dar como resultado mala imagen y pésima reputación. Además, si los activos, herramientas, sistemas y vendedores en un ecosistema digital están obsoletos o no participan, generarían pérdida de tiempo, esfuerzos y dinero; parecido a cuando un equipo de trabajo posee pocos conocimientos sobre los productos empresariales y atiende lentamente los clientes, llevando a que se formen largas filas de individuos porque el proceso de venta no funciona con agilidad.
+            p Por su lado, un ecosistema digital mal organizado afecta la producción, los procesos, el capital y la reputación de la marca con los clientes. Por ejemplo, un <i>chat</i> que es usado por los clientes de manera frecuente, pero que la marca ya no opera, puede dar como resultado mala imagen y pésima reputación. Además, si los activos, herramientas, sistemas y vendedores en un ecosistema digital están obsoletos o no participan, generarían pérdida de tiempo, esfuerzos y dinero; parecido a cuando un equipo de trabajo posee pocos conocimientos sobre los productos empresariales y atiende lentamente los clientes, llevando a que se formen largas filas de individuos porque el proceso de venta no funciona con agilidad.
             p Para gestionar correctamente el ecosistema digital, de tal manera que ayude a alcanzar los objetivos pactados y beneficiar a los clientes, se deben tener en cuenta los siguientes puntos:
 
     .bkg-slyder.px-5.py-5.mb-5.mt-5
@@ -109,7 +119,7 @@
         .row.justify-content-center
           .col-md-8
             h3 Interconexión y focos de confluencia
-            p Lo importante es que los actores se retroalimenten entre sí para que coexistan a largo plazo (herramientas, activos y personas claves en el proceso, entre otros). El ecosistema digital puede ser multicanal u omnicanal, pero lo relevante es no llenarse de activos aislados identificables o que requieren de mayor inversión para mantenerlos, y que los focos de unión en la interconexión sean propios (no de proveedores) de tal forma que la empresa pueda desarrollar su trabajo más fácilmente.
+            p Lo importante es que los actores se retroalimenten entre sí para que coexistan a largo plazo (herramientas, activos y personas claves en el proceso, entre otros). El ecosistema digital puede ser multicanal u omnicanal, pero lo relevante es no llenarse de activos aislados identificables o que requieren de mayor inversión para mantenerlos, y que los focos de unión en la interconexión sean propios (no de proveedores) de tal forma que la empresa pueda desarrollar su trabajo fácilmente. 
           .col-md-4
             figure
              img(src='@/assets/curso/temas/tema1/t1-5.svg', alt='Texto que describa la imagen')
@@ -141,7 +151,7 @@
         .row.justify-content-center
           .col-md-8
             h3 Datos
-            p Para poder lograr una excelente experiencia de cliente y una velocidad en la adaptación al cambio tecnológico, se requiere de analizar permanentemente la vigencia del ecosistema digital de cara a esa experiencia que puede vivir el cliente y, especialmente, a los objetivos pactados por la marca; los datos proveen la forma de perfeccionar, apresurar, hallar puntos de mejoramiento y ventaja, y añadir o eliminar actores que faciliten el crecimiento de la empresa en los medios digitales.
+            p Para poder lograr una excelente experiencia de cliente y una velocidad en la adaptación al cambio tecnológico, se requiere analizar permanentemente la vigencia del ecosistema digital, de cara a la experiencia que puede vivir el cliente y, especialmente, a los objetivos pactados por la marca. Los datos proveen la forma de perfeccionar, apresurar, hallar puntos de mejoramiento y ventaja, y añadir o eliminar actores que faciliten el crecimiento de la empresa en los medios digitales.
           .col-md-4
             figure
              img(src='@/assets/curso/temas/tema1/t1-9.svg', alt='Texto que describa la imagen').mt-2         
@@ -149,11 +159,9 @@
     .row.justify-content-center.mt-5
       .col-lg-8
         .cajon.color1.p-4
-          p Ya se vieron sus características, es hora de estudiar los elementos de los ecosistemas digitales
+          p Como ya se desglosaron sus características, es hora de estudiar los elementos de los ecosistemas digitales.
 
-    separador
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.2 Elementos
+    h3(data-aos="fade-left").mt-5 Elementos del ecosistema digital
 
     .row.justify-content-center
       p Con distintas acciones y recursos, un ecosistema digital puede ser de utilidad para las marcas con el fin de optimizar su imagen y posicionamiento en la web. De esta manera, se puede conseguir una efectividad más alta en el momento de enviar la información a los clientes. Los siguientes son los elementos más importantes que conforman los ecosistemas digitales:
@@ -172,7 +180,7 @@
                   img(src='@/assets/curso/temas/tema1/t1-12.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
                 h5 #[em Sitio Web:]
-                p En todo ecosistema digital es su núcleo central, por ser el canal de mayor relevancia y al que se debe dirigir el tráfico que la empresa genere a través del resto de herramientas digitales (redes sociales, #[em blog], correo electrónico, #[em chat], foto, contenidos optimizados, etc.).
+                p Es el núcleo central en todo ecosistemas digital, por ser el canal de mayor relevancia y al que se debe dirigir el tráfico que la empresa genere a través del resto de herramientas digitales tales como;  redes sociales, <i>blog</i>, correo electrónico, <i>chat</i>, foto, contenidos optimizados, etc.
 
           div(x="28.4%" y="16%" tooltip="" numero="")
             .row.justify-content-center
@@ -190,9 +198,8 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/t1-14.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
-                h5 Content #[em Marketing:]
-                p Tiene que ver con la publicación permanente de contenidos optimizados que sirven para la atracción de potenciales clientes al sitio web. Debe ser contenido deseado por el cliente para poderlo atraer. Aumenta la cantidad de interacciones.
-
+                h5 Content Marketing:
+                p Hace referencia a la publicación permanente de contenidos optimizados que sirven para la atracción de potenciales clientes al sitio web. Debe ser contenido deseado por el cliente para poderlo atraer. Aumenta la cantidad de interacciones.
 
           div(x="70%" y="16%" tooltip="" numero="")
             .row.justify-content-center
@@ -250,14 +257,12 @@
                   img(src='@/assets/curso/temas/tema1/t1-20.svg', alt='Texto que describa la imagen').img-movil
               .col-lg-10.col-xs-6       
                 h5 #[em Blog:]
-                p Herramienta fundamental porque ayuda a la publicación de contenidos de valor para los clientes generando posicionamiento en motores de búsqueda. Conserva con vida todo ecosistema digital siempre y cuando comparta contenido deseado y anhelado por los clientes. (Nespral & Hergueta, 2021, p.99).
+                p Herramienta de publicación de contenidos que genera valor para los clientes contribuyendo en el posicionamiento en motores de búsqueda. Conserva con vida todo ecosistema digital siempre y cuando comparta contenido deseado y anhelado por los clientes. (Nespral & Hergueta, 2021).
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.3 Factores de éxito
+    h3(data-aos="fade-left").mt-5 Factores de éxito
 
     .row.justify-content-center
-      p Revise los contenidos dispuestos en el #[strong Anexo 1]. Factores de éxito.
+      p Revise los contenidos dispuestos en el anexo 1. Factores de éxito.
 
     .row.justify-content-center.mt-3
       .col-lg-10
@@ -274,12 +279,10 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    separador
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.4 Estrategias
+    h3(data-aos="fade-left").mt-5 Estrategias
 
     .row.justify-content-center
-      p Revise los contenidos dispuestos en el #[strong Anexo 2]. Estrategias, para ampliar la información de las estrategias de los ecosistemas digitales.
+      p Revise los contenidos dispuestos en el anexo 2. Estrategias, para ampliar la información de las estrategias de los ecosistemas digitales.
 
     .row.justify-content-center.mt-3
       .col-lg-10
