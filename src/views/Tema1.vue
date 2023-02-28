@@ -8,21 +8,15 @@
       h1 Ecosistemas digitales
 
     .row.justify-content-center
-      .col-lg-7
-        p #[strong Nespral y Hergueta] (2021) afirman que :
-    .row.justify-content-center
-      .col-lg-7.mb-5.mb-lg-0
+      .col-lg-10.mb-5.mb-lg-0
         .b1.bloque-texto-b.p-3
           .b1.bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 Tal como sucede con la naturaleza, donde hacemos parte de un hábitat que nos vincula a todos, también se encuentran hábitats y ambientes en el universo virtual. En plena evolución digital del comercio, desde lo tradicional a lo electrónico, surge el concepto de ‘ecosistema digital’ que es tan importante para el futuro de las empresas, porque hace referencia a la gestión oportuna de cada una de las comunidades virtuales que pueda tener una empresa.
+            p.mb-0 Nespral y Hergueta (2021) afirman que, tal como sucede con la naturaleza, donde hacemos parte de un hábitat que nos vincula, también se encuentran hábitats y ambientes en el universo virtual. En plena evolución digital del comercio, es decir, desde lo tradicional a lo electrónico, surge el concepto de ‘ecosistema digital’ representando una herramienta importante para el futuro de las empresas, haciendo referencia a la gestión oportuna de cada una de las comunidades virtuales que pueden gestionar. A continuación, se amplía el tema para mayor comprensión.
             i.fas.fa-quote-right
 
     .row.justify-content-center
       p Por tal motivo, es ampliado a continuación:
-      .col-auto  
-        h2.mb-0 Ecosistemas digitales
-        hr.linea.mb-0.mt-0
 
     .row.justify-content-center.mt-5
       p Estas son:
@@ -68,16 +62,15 @@
           .cajon.color1.p-4
             p Miremos ahora las características de los ecosistemas digitales
 
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.1 Características
+
+    h3(data-aos="fade-left").mt-5 Características del ecosistema digital
 
     .row.justify-content-center.mb-3
       .col-lg-4.justify-content-center(data-aos="flip-up")
         figure
           img(src='@/assets/curso/temas/tema1/t1-2.svg', alt='Texto que describa la imagen').animacion-flotante
       .col-lg-8.col-xs-6.mt-3
-        p Muchas son las formas en que las empresas pueden aprovechar el ecosistema digital, con el fin de interactuar con una audiencia, que puede ser clientes u otras empresas, generando valor en la relación. Por ejemplo, algunos de los gigantes de la industria tecnológica han creado aplicaciones que permiten a los miembros compartir datos relacionados con su salud y actividades o ejercicios, teniendo almacenado una serie de datos que pueden ser de ayuda para hospitales, centros de salud, clínicas y médicos, porque los informan acerca del estado de los pacientes, además de desarrollar estudios y productos.
+        p Muchas son las formas en que las empresas pueden aprovechar el ecosistema digital, con el fin de interactuar con una audiencia, que puede ser clientes u otras empresas, generando valor en la relación. Por ejemplo, algunos de los gigantes de la industria tecnológica han creado aplicaciones que permiten a los miembros compartir datos relacionados con su salud, actividades o ejercicios, teniendo almacenado una serie de datos que pueden ser de ayuda para hospitales, centros de salud, clínicas y médicos, esto les permite informar sobre el estado de salud de los pacientes, además de desarrollar estudios y productos.
         p Las siguientes son tres características relevantes que posee un ecosistema digital, y que son vitales para comprender los peligros y ventajas que pueden presentar:
 
     .row.justify-content-center.mt-5        
