@@ -156,7 +156,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 7 - Protocolos básicos de seguridad informática]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_7-Protocolos básicos de seguridad informática.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_7_Protocolo_basicos_de_seguridad_informatica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download      
 

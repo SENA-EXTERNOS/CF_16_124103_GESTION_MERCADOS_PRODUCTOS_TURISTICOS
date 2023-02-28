@@ -120,7 +120,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 5 - Derechos de la PI]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_5-Derechos de la PI.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_5_Derechos_de_la_PI.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -141,7 +141,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 6 - Sujetos de la PI]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_6-Sujetos de la PI.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_6_Sujetos_de_la_PI.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

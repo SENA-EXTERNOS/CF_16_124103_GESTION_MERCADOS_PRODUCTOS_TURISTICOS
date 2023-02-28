@@ -275,7 +275,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 1 - Factores de éxito]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_1-Factores de éxito.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_1_Factores_de_exito.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -295,7 +295,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 2 - Estrategias]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_2-Estrategias.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_2_Estrategias.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

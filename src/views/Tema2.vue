@@ -138,7 +138,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 3 - Pasos para crear una parrilla]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_3-Pasos para crear una parrilla.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_3_Pasos_para_crear_una_parrilla.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -158,7 +158,7 @@
                 .col.mb-3.mb-sm-0
                   p.texto-blanco  #[strong Anexo 4 - Calendario de contenido]
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_4-Calendario de contenido.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_4_Calendario_de_contenido.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
