@@ -48,7 +48,7 @@
             p Internacionalmente es la que rige y, es legítima y reconocida en casi todos los países como modelo que instaura cómo una empresa puede desarrollar su procedimiento de gestión de seguridad informática. Esta admite que las empresas evalúen el peligro y la aplicación de los exámenes requeridos para atenuarlos o excluirlos. Los requerimientos se contienen en una distribución de 10 capítulos, que como las demás Normas ISO (por ejemplo, ISO 9001 o la ISO 14001), goza de excelente aprobación por parte de las compañías. Es por esto que se hace bastante simple para una empresa efectuar una unificación en su procedimiento de gestión que acumule las exigencias habituales y específicas de cada norma, por ejemplo.
 
     .row.justify-content-center
-      p Para conocer más sobre la Norma ISO 29001 que rige para Colombia, consulte el siguiente documento complementario. Leer documento
+      p Para conocer más sobre la Norma ISO 27001 que rige para Colombia, consulte el siguiente documento complementario. Leer documento
 
     .row.justify-content-center.mt-5
       .col-lg-10
@@ -77,53 +77,53 @@
 
     .row.justify-content-center
       .col-lg-10.mt-5
-        ImagenInfograficaB.color-acento-botones
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema4/t4-3.svg', alt='Texto que describa la imagen')
 
-          div(x="10%" y="30%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="10%" y="30%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Exámenes de ingreso a la información más estricta
+              h4.mb-4.text-center Exámenes de ingreso a la información más estricta
               p Limitar el acceso a los datos es una importante medida de seguridad. Mientras menos personas accedan a los datos, menos será el peligro. Por eso, se requiere del implante de un sistema que imposibilite el ingreso a la información por parte de usuarios, empleados, clientes, etc.
 
-          div(x="30%" y="30%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="30%" y="30%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Ejecutar copias de seguridad
+              h4.mb-4.text-center Ejecutar copias de seguridad
               p Tener un sistema de #[em back ups] (copias de seguridad) frecuentemente, admite que el negocio certifique que puede rescatar la información ante eventos desastrosos, imposibilitando la pérdida de los datos y consintiendo la restauración de la normalidad hacia el interior de la empresa en unos instantes.
 
-          div(x="50%" y="30%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="50%" y="30%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Usar claves seguras
+              h4.mb-4.text-center Usar claves seguras
               p  El ingreso a las diferentes plataformas que usa la marca, como, por ejemplo, el #[em eMail], el servidor de #[em back ups], las redes sociales, los ecosistemas digitales, etc., debe ser realizado usando contraseñas de seguridad seguras, que imposibiliten ser descubiertas por piratas informáticos. La utilización de claves seguras es una medida básica de seguridad informática relevante que puede tener cualquier negocio.  
 
-          div(x="70%" y="30%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="70%" y="30%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Proteger el correo electrónico
+              h4.mb-4.text-center Proteger el correo electrónico
               p Actualmente, muchas de las comunicaciones empresariales se realizan usando el #[em eMail]. Por eso, una medida de seguridad de la información importante es usar sistemas de encriptado de mensajes y filtros anti #[em spam], que aseguren el amparo y la intimidad de todos los datos.
-          div(x="90%" y="30%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="90%" y="30%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Contratar un #[em software] integral de seguridad
+              h4.mb-4.text-center Contratar un #[em software] integral de seguridad
               p Lo ideal es lograr la protección de la información en la #[em web] y la mejor forma de hacerlo es a través del contrato de un equipo de seguridad integral que agrupe anti virus, anti espías, anti #[em malware, firewall], etc., y que proteja los datos ante posibles ataques cibernéticos provenientes del exterior por medio de la red.      
 
-          div(x="20.3%" y="68.5%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="20.3%" y="68.5%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Monitorización continua y respuesta inmediata.
+              h4.mb-4.text-center Monitorización continua y respuesta inmediata.
               p En toda empresa se debe instaurar un sistema que permita el monitoreo de la administración de la información para poder detectar los posibles errores o acciones que no son correctas. Es un sistema de control que permite actuar de manera rápida para solucionar cualquier problema y disminuir las consecuencias.  
 
-          div(x="40.3%" y="68.5%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="40.3%" y="68.5%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Incluir a toda la empresa en la seguridad
+              h4.mb-4.text-center Incluir a toda la empresa en la seguridad
               p Para tener buenas medidas de seguridad de la información empresarial, se deben incluir en todas las áreas para que participen de la misma, conteniendo a los actores externos como lo son el público objetivo, proveedores, distribuidores, aliados, etc. Frecuentemente, las empresas implantan sistemas de seguridad oportunos, pero, puede estar cuando se relaciona con un tercero que no posee medidas de seguridad correctas.
 
-          div(x="60.3%" y="68.5%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="60.3%" y="68.5%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Trabajar en la nube
+              h4.mb-4.text-center Trabajar en la nube
               p Permite contar con sistemas de seguridad informática que tiene el proveedor del servicio. Además, el proveedor del servicio es quien se responsabiliza de su seguridad.
 
-          div(x="80.3%" y="68.5%" tooltip="" numero="")
+          .tarjeta.color-acento-botones.p-3(x="80.3%" y="68.5%" tooltip="" numero="")
             .row.justify-content-center
-              h5 Usar programas de Prevención de Pérdidas de Datos (DLP)
+              h4.mb-4.text-center Usar programas de Prevención de Pérdidas de Datos (DLP)
               p Estos programas se pueden implementar como medida de seguridad empresarial para controlar que ningún beneficiario copie o comparta datos que no están permitidos.                                                
 
     .row.justify-content-center.mt-5

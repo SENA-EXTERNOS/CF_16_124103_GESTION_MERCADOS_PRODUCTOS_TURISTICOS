@@ -168,96 +168,59 @@
 
     .row.justify-content-center
       .col-lg-10.mt-5
-        ImagenInfograficaB.color-acento-botones
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/t1-10.svg', alt='Texto que describa la imagen')
 
-          div(x="7.5%" y="16%" tooltip="" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-12.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 #[em Sitio Web:]
-                p Es el núcleo central en todo ecosistemas digital, por ser el canal de mayor relevancia y al que se debe dirigir el tráfico que la empresa genere a través del resto de herramientas digitales tales como;  redes sociales, <i>blog</i>, correo electrónico, <i>chat</i>, foto, contenidos optimizados, etc.
+          .tarjeta.color-acento-botones.p-3(x="7.5%" y="16%" tooltip="" numero="")
+      
+            h4.mb-4.text-center #[em Sitio Web:]
+            p Es el núcleo central en todo ecosistemas digital, por ser el canal de mayor relevancia y al que se debe dirigir el tráfico que la empresa genere a través del resto de herramientas digitales tales como;  redes sociales, <i>blog</i>, correo electrónico, <i>chat</i>, foto, contenidos optimizados, etc.
 
-          div(x="28.4%" y="16%" tooltip="" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-13.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 SEM, SMM, SEO:
-                p Tiene que ver con la indexación en motores de búsqueda y, por lo tanto, es una inversión estratégica de mercadeo en herramientas digitales. 
+          .tarjeta.color-acento-botones.p-3(x="28.4%" y="16%" tooltip="" numero="")
+     
+            h4.mb-4.text-center SEM, SMM, SEO:
+            p Tiene que ver con la indexación en motores de búsqueda y, por lo tanto, es una inversión estratégica de mercadeo en herramientas digitales. 
 
 
-          div(x="49.2%" y="16%" tooltip="" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-14.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 Content Marketing:
-                p Hace referencia a la publicación permanente de contenidos optimizados que sirven para la atracción de potenciales clientes al sitio web. Debe ser contenido deseado por el cliente para poderlo atraer. Aumenta la cantidad de interacciones.
+          .tarjeta.color-acento-botones.p-3(x="49.2%" y="16%" tooltip="" numero="")
+    
+            h4.mb-4.text-center Content Marketing:
+            p Hace referencia a la publicación permanente de contenidos optimizados que sirven para la atracción de potenciales clientes al sitio web. Debe ser contenido deseado por el cliente para poderlo atraer. Aumenta la cantidad de interacciones.
 
-          div(x="70%" y="16%" tooltip="" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-15.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 Redes Sociales:
-                p Ayudan a difundir mejor el sitio web y los contenidos de calidad compartidos a través de estas herramientas. Agrupa aspectos del mercadeo con la presencia del #[em social media.]
+          .tarjeta.color-acento-botones.p-3(x="70%" y="16%" tooltip="" numero="")
+      
+            h4.mb-4.text-center Redes Sociales:
+            p Ayudan a difundir mejor el sitio web y los contenidos de calidad compartidos a través de estas herramientas. Agrupa aspectos del mercadeo con la presencia del #[em social media.]
 
 
-          div(x="92%" y="16%" tooltip="" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-16.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 Correo electrónico:
-                p Herramienta con la que se puede mantener informados a los suscriptores acerca de novedades, noticias y promociones de la empresa, llevando tráfico al sitio web. También sirve para fidelizar los clientes a través de mensajes de agradecimiento (por la primera compra o por ser clientes fieles), felicitaciones (por fechas especiales, como cumpleaños), etc.
+          .tarjeta.color-acento-botones.p-3(x="92%" y="16%" tooltip="" numero="")
+     
+            h4.mb-4.text-center Correo electrónico:
+            p Herramienta con la que se puede mantener informados a los suscriptores acerca de novedades, noticias y promociones de la empresa, llevando tráfico al sitio web. También sirve para fidelizar los clientes a través de mensajes de agradecimiento (por la primera compra o por ser clientes fieles), felicitaciones (por fechas especiales, como cumpleaños), etc.
 
 
-          div(x="18%" y="59.5%" tooltip="" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-17.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 #[em Branding:]
-                p Es la arquitectura de marca y tiene que ver con su personalidad, lenguaje e imagen; es el área estratégica del ecosistema digital y elemento vital para hacer llegar la información a través de las herramientas digitales.
+          .tarjeta.color-acento-botones.p-3(x="18%" y="59.5%" tooltip="" numero="")
+    
+            h4.mb-4.text-center #[em Branding:]
+            p Es la arquitectura de marca y tiene que ver con su personalidad, lenguaje e imagen; es el área estratégica del ecosistema digital y elemento vital para hacer llegar la información a través de las herramientas digitales.
 
-          div(x="39%" y="59.5%" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-18.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 Métrica:
-                p Todos los esfuerzos publicitarios en medios digitales deben ser medidos y analizados, porque los datos estudiados se convierten en activos de la empresa. Tiene que ver con los diferentes indicadores de gestión #[em (KPI)], que ayudan a tomar decisiones sólidas en cuanto a las estrategias. La analítica #[em web] es vital para el futuro de toda empresa.
+          .tarjeta.color-acento-botones.p-3(x="39%" y="59.5%" numero="")
+      
+            h4.mb-4.text-center Métrica:
+            p Todos los esfuerzos publicitarios en medios digitales deben ser medidos y analizados, porque los datos estudiados se convierten en activos de la empresa. Tiene que ver con los diferentes indicadores de gestión #[em (KPI)], que ayudan a tomar decisiones sólidas en cuanto a las estrategias. La analítica #[em web] es vital para el futuro de toda empresa.
 
 
-          div(x="59.7%" y="59.5%" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-19.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 Conversión:
-                p Se refiere al proceso de informar, atraer y deleitar a los individuos que visiten la web con el fin de que terminen haciendo la acción deseada por la empresa (compra, suscripción, registro, seguir en redes sociales, etc.). Puede iniciar desde la #[em landing page], donde los clientes llegan para realizar la acción según el interés del mensaje, y se puede dar a través de correos electrónicos, formatos de suscripción o registro, nutrición de #[em leads], etc. 
+          .tarjeta.color-acento-botones.p-3(x="59.7%" y="59.5%" numero="")
+    
+            h4.mb-4.text-center Conversión:
+            p Se refiere al proceso de informar, atraer y deleitar a los individuos que visiten la web con el fin de que terminen haciendo la acción deseada por la empresa (compra, suscripción, registro, seguir en redes sociales, etc.). Puede iniciar desde la #[em landing page], donde los clientes llegan para realizar la acción según el interés del mensaje, y se puede dar a través de correos electrónicos, formatos de suscripción o registro, nutrición de #[em leads], etc. 
 
 
-          div(x="81.5%" y="59.5%" numero="")
-            .row.justify-content-center
-              .col-lg-2.justify-content-center(data-aos="flip-up")
-                figure
-                  img(src='@/assets/curso/temas/tema1/t1-20.svg', alt='Texto que describa la imagen').img-movil
-              .col-lg-10.col-xs-6       
-                h5 #[em Blog:]
-                p Herramienta de publicación de contenidos que genera valor para los clientes contribuyendo en el posicionamiento en motores de búsqueda. Conserva con vida todo ecosistema digital siempre y cuando comparta contenido deseado y anhelado por los clientes. (Nespral & Hergueta, 2021).
+          .tarjeta.color-acento-botones.p-3(x="81.5%" y="59.5%" numero="")   
+            h4.mb-4.text-center #[em Blog:]
+            p Herramienta de publicación de contenidos que genera valor para los clientes contribuyendo en el posicionamiento en motores de búsqueda. Conserva con vida todo ecosistema digital siempre y cuando comparta contenido deseado y anhelado por los clientes. (Nespral & Hergueta, 2021).
 
     h3(data-aos="fade-left").mt-5 Factores de éxito
 

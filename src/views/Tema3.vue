@@ -33,24 +33,6 @@
     .row.justify-content-center
       p Los tipos de propiedad intelectual son derechos de autor, patentes y marcas, los cuales están detallados a continuación:
       TabsA.color-acento-contenido.mt-3
-        .tarjeta.color-acento-contenido.p-3(style="background-color:#fee3e4" titulo="Tipos de PI")
-          .row.justify-content-center.p-3
-            .col-5.col-lg-2.mb-3
-              figure
-                img(src='@/assets/curso/temas/tema3/t3-2.svg', alt='')           
-
-            .col-lg-9
-              ul.lista-ul
-                li 
-                  i.fas.fa-check.vineta-fuscia
-                  | Derechos de autor.
-                li 
-                  i.fas.fa-check.vineta-fuscia
-                  | Patentes.
-                li 
-                  i.fas.fa-check.vineta-fuscia
-                  | Marcas.
-        
         .tarjeta.color-acento-contenido.p-3(style="background-color:#fee3e4" titulo="Derechos de autor")
           .row.justify-content-center.p-3
             .col-5.col-lg-2.mb-3
@@ -99,7 +81,7 @@
                 img(src='@/assets/curso/temas/tema3/t3-5.svg', alt='')           
 
             .col-lg-9
-              p Es el Registro de Marca (copyright), que es un signo que sirve para observar las diferencias entre bienes o servicios existentes de un negocio a otro. Las marcas son derechos de PI que se encuentran amparados. A nivel regional o nacional, una marca se puede proteger registrándose, es decir, exhibiendo una solicitud para registrarla en la oficina de marcas y pagando el dinero correspondiente. A nivel global, hay dos elecciones: primero, mostrar la solicitud en la oficina de todos los países en donde se desee tener esta protección; o segundo, usar el Sistema de Madrid, que viene siendo una solución hábil y económica con la que se puede hacer registro y gestión de marcas a nivel internacional. Solo se requiere de la presentación de una sola solicitud y hacer un pago para pedirla en máximo 128 países. 
+              p Es el Registro de Marca (<i>copyright</i>), que es un signo que sirve para observar las diferencias entre bienes o servicios existentes de un negocio a otro. Las marcas son derechos de PI que se encuentran amparados. A nivel regional o nacional, una marca se puede proteger registrándose, es decir, exhibiendo una solicitud para registrarla en la oficina de marcas y pagando el dinero correspondiente. A nivel global, hay dos elecciones: primero, mostrar la solicitud en la oficina de todos los países en donde se desee tener esta protección; o segundo, usar el Sistema de Madrid, que viene siendo una solución hábil y económica con la que se puede hacer registro y gestión de marcas a nivel internacional. Solo se requiere de la presentación de una sola solicitud y hacer un pago para pedirla en máximo 128 países. 
               p Inicialmente, el registro de marca es conferido al dueño, es decir, a quien posee los exclusivos derechos de uso. O sea, la marca puede ser usada únicamente por él, o a cambio de un dinero, puede ser conferida en licencia a un tercero. Es una estrategia que brinda seguridad legal y robustece la posición del dueño del exclusivo derecho.
               p El tiempo en el que el registro es válido varía, pero, por lo general, son diez años, que se pueden renovar de manera indefinida si se hace un pago adicional. Es un derecho privado donde el amparo se hace presente en los estrados judiciales.
               p Las marcas consisten en una palabra o varias palabras, cifras y letras. También consisten en símbolos, dibujos, particularidades tridimensionales, como la forma, el empaque y el envase de bienes; o también, en signos que no se ven, como, por ejemplo, sonidos, olores o colores usados como particularidades distintivas; por lo tanto, las opciones que se pueden tener para protegerlas son muy amplias.
