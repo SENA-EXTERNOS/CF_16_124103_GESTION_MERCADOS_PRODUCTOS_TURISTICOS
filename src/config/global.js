@@ -101,13 +101,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Ecosistemas digitales',
-      referencia:
-        'Duplica más (2020) <em>Cómo funciona el ecosistema digital</em> [video] YouTube',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=XyB2CAbMGTw&t=47s',
-    },
-    {
       tema: 'Parrilla de contenidos digitales',
       referencia:
         'Guzmán, L. (2021) <em>Organiza el contenido de tus redes sociales en una parrilla de contenidos</em>. [video] YouTube',
