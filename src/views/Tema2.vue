@@ -14,7 +14,7 @@
         .b1.bloque-texto-b.p-3
           .b1.bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 Martín (2018) comenta que con el diseño de una excelente estrategia de contenidos digitales se pueden obtener posiciones más privilegiadas en los diferentes motores de búsqueda. Por esta razón, es indispensable para la marca, publicar de manera frecuente, contenidos de calidad haciendo uso de una parrilla, que es la herramienta perfecta para conseguirlo. Es vital contar con un sistema en el que se puedan organizar las publicaciones para diseñar las estrategias de contenidos digitales de manera eficiente, elaborando una parrilla que cuente con un cronograma planificado de publicaciones que dé como resultado la atracción de muchos usuarios al sitio web, <em>landing page</em>, redes sociales, blog o tienda virtual de la empresa.
+            p.mb-0 Martín (2018) comenta que con el diseño de una excelente estrategia de contenidos digitales se pueden obtener posiciones más privilegiadas en los diferentes motores de búsqueda. Por esta razón, es indispensable para la marca, publicar de manera frecuente, contenidos de calidad haciendo uso de una parrilla, que es la herramienta perfecta para conseguirlo. Es vital contar con un sistema en el que se puedan organizar las publicaciones para diseñar las estrategias de contenidos digitales de manera eficiente, elaborando una parrilla que cuente con un cronograma planificado de publicaciones que dé como resultado la atracción de muchos usuarios al sitio <em>web</em>, <em>landing page</em>, redes sociales, <em>blog</em> o tienda virtual de la empresa.
             i.fas.fa-quote-right
 
     h3(data-aos="fade-left").mt-5 Ventajas de la parrilla de contenidos digitales
@@ -89,7 +89,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2-9.svg", alt="alt").numero.img-movil
             .col
-              p Ayudar al desarrollo de la analítica web.
+              p Ayudar al desarrollo de la analítica <i>web</i>.
 
     h3(data-aos="fade-left").mt-5 Importancia de la parrilla de contenido
 
